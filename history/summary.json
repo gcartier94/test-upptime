@@ -4,18 +4,19 @@
     "url": "https://$LBI9/zosmf/info",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "lbi-9-z-osmf",
-    "status": "up",
-    "uptime": "97.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.44%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "94.76%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "97.41%",
+    "uptimeMonth": "97.44%",
+    "uptimeYear": "97.44%",
     "time": 866,
     "timeDay": 842,
     "timeWeek": 833,
     "timeMonth": 866,
     "timeYear": 866,
     "dailyMinutesDown": {
+      "2021-07-13": 0,
       "2021-07-07": 528
     }
   }
