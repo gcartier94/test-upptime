@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "lbi-9-z-osmf",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.79%",
-    "uptimeYear": "98.82%",
-    "time": 1067,
-    "timeDay": 731,
-    "timeWeek": 792,
-    "timeMonth": 1080,
-    "timeYear": 1067,
+    "uptimeYear": "98.86%",
+    "time": 1065,
+    "timeDay": 1009,
+    "timeWeek": 811,
+    "timeMonth": 1078,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2021-07-07": 528
     }
